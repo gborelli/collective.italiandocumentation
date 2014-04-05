@@ -7,7 +7,7 @@ sempre "pagine web".**
 :Data: 27-11-2012
 :Traduzione: Giacomo Spettoli
 :Impaginazione: Giacomo Spettoli
-:Revisione:
+:Revisione: Giorgio Borelli
 
 
 Per aggiungere una pagina, utilizza il menu *Aggiungi...* dentro ad una
